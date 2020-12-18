@@ -1,5 +1,0 @@
-scalar MyDateTime
-
-type Query {
-  currentDate: MyDateTime!
-}
